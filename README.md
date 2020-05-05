@@ -10,7 +10,7 @@ Spheres or boxes that contain code should create a 'repo' directory in their res
 
 tmp directories can be made in other directories to indicate these files or directories need a home.
 
-zachive is intended for resources that are not being used much anymore. This means anything in the top directories excluding zarchive should be for content and resources access fairly frequently (at user discretion).
+zarchive is intended for resources that are not being used much anymore. This means anything in the top directories excluding zarchive should be for content and resources access fairly frequently (at user discretion).
 
 Once a sphere has decided to go to the zarchive, the name should be changed to YYYY-YYYY_name to indicate the time of access.
 
